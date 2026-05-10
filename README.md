@@ -49,8 +49,8 @@ A specialized utility for student needs:
    ```bash
    pip install pyTelegramBotAPI
 2. Configuration:
-   Open main.py and replace the TOKEN variable with your unique API key from @BotFather.
+   Open study_assistant.pynb and replace the TOKEN variable with your unique API key from @BotFather.
 3. Execution
-   python main.py
+   python study_assistant.pynb
 ## The author
 **Gissatden Nuradil** at Maqsut Narikbayev university
